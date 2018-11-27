@@ -1,0 +1,27 @@
+{
+    "license": "MIT",
+    "type": "library",
+    "name": "jaykee1/api",
+    "description": "Use telegram bot api easily.",
+    "keywords": ["yii2","telegram","bot","api"],
+    "authors": [
+        {
+            "name": "Jaykee",
+            "email": "jaykee0418@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "api\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

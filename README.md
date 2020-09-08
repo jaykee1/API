@@ -1,6 +1,6 @@
 ## Introduction
 
-[![Download](https://img.shields.io/packagist/dt/jaykee1/API.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![Version](https://img.shields.io/badge/version-V1.1.0-yellogreen.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![API Version](https://img.shields.io/badge/api%20version-V3.6-orange.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![Stars](https://img.shields.io/github/stars/jaykee1/API.svg?style=for-the-badge&label=Like)](https://github.com/botstan/API)
+[![Download](https://img.shields.io/packagist/dt/jaykee1/API.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![Version](https://img.shields.io/badge/version-V1.1.0-yellogreen.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![API Version](https://img.shields.io/badge/api%20version-V3.6-orange.svg?style=for-the-badge)](https://github.com/jaykee1/API) [![Stars](https://img.shields.io/github/stars/jaykee1/API.svg?style=for-the-badge&label=Like)](https://github.com/jaykee1/API)
 
 The API is an HTTP-based interface created for developers keen on building bots for Telegram. To learn how to create and set up a bot, please consult [Telegram Introduction to Bots](https://core.telegram.org/bots) and [Bot FAQ](https://core.telegram.org/bots/faq).
 
